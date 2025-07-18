@@ -61,7 +61,7 @@ Aunque la aplicación ya es funcional, hay algunas ideas para futuras versiones:
 
 ---
 
-## 🧑‍💻 Autor
+##  Autor
 
 Daniel Marinho Martínez  
 Proyecto realizado como parte del TFG del ciclo DAM – IES Matemático Puig Adam (Madrid)
