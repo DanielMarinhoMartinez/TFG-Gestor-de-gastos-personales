@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#121212</color> <!-- Fondo oscuro principal -->
+    <color name="colorPrimaryDark">#000000</color>
+    <color name="colorAccent">#BB86FC</color>
+    <color name="colorTextPrimary">#FFFFFF</color>
+    <color name="colorTextSecondary">#CCCCCC</color>
+    <color name="buttonBackground">#1F1F1F</color>
+    <color name="colorOnSurface">#FFFFFF</color>
+    <color name="dialog_button_color">#BB86FC</color> <!-- más visible en fondo oscuro -->
+
+</resources>

@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Mis gastos</string>
+    <string name="add_expense">Agregar Gasto</string>
+    <string name="dark_mode">Modo Oscuro</string>
+</resources>
